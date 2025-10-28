@@ -8,3 +8,4 @@
 # Ignore system/editor files
 .DS_Store
 .vscode/
+.aws/
