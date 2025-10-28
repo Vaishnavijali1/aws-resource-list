@@ -1,2 +1,10 @@
 #!/bin/bash
 .ssh/
+*.pem
+*.key
+*.csv
+*.log
+
+# Ignore system/editor files
+.DS_Store
+.vscode/

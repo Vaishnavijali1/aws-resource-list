@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1761663561,,"wq!"
+|2,0,1761672973,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,30 +25,42 @@
 # Registers:
 
 # File marks:
-'0  15  0  ~/.gitignore
-|4,48,15,0,1761663561,"~/.gitignore"
-'1  96  3  ~/aws_resource_list.sh
-|4,49,96,3,1761662284,"~/aws_resource_list.sh"
-'2  96  3  ~/aws_resource_list.sh
-|4,50,96,3,1761662246,"~/aws_resource_list.sh"
-'3  33  2730  ~/aws_resource_list.sh
-|4,51,33,2730,1761662078,"~/aws_resource_list.sh"
-'4  121  0  ~/aws_resource_list.sh
-|4,52,121,0,1761662078,"~/aws_resource_list.sh"
-'5  33  2730  ~/aws_resource_list.sh
-|4,53,33,2730,1761662078,"~/aws_resource_list.sh"
-'6  121  0  ~/aws_resource_list.sh
-|4,54,121,0,1761662078,"~/aws_resource_list.sh"
+'0  10  7  ~/.gitignore
+|4,48,10,7,1761672973,"~/.gitignore"
+'1  2  4  ~/.gitignore
+|4,49,2,4,1761672460,"~/.gitignore"
+'2  2  4  ~/.gitignore
+|4,50,2,4,1761672460,"~/.gitignore"
+'3  23  0  ~/.gitignore
+|4,51,23,0,1761663561,"~/.gitignore"
+'4  15  0  ~/.gitignore
+|4,52,15,0,1761663561,"~/.gitignore"
+'5  96  3  ~/aws_resource_list.sh
+|4,53,96,3,1761662284,"~/aws_resource_list.sh"
+'6  96  3  ~/aws_resource_list.sh
+|4,54,96,3,1761662246,"~/aws_resource_list.sh"
 '7  33  2730  ~/aws_resource_list.sh
-|4,55,33,2730,1761661900,"~/aws_resource_list.sh"
+|4,55,33,2730,1761662078,"~/aws_resource_list.sh"
 '8  121  0  ~/aws_resource_list.sh
-|4,56,121,0,1761661900,"~/aws_resource_list.sh"
+|4,56,121,0,1761662078,"~/aws_resource_list.sh"
 '9  33  2730  ~/aws_resource_list.sh
-|4,57,33,2730,1761661900,"~/aws_resource_list.sh"
+|4,57,33,2730,1761662078,"~/aws_resource_list.sh"
 
 # Jumplist (newest first):
+-'  10  7  ~/.gitignore
+|4,39,10,7,1761672973,"~/.gitignore"
+-'  2  4  ~/.gitignore
+|4,39,2,4,1761672817,"~/.gitignore"
+-'  2  4  ~/.gitignore
+|4,39,2,4,1761672460,"~/.gitignore"
+-'  23  0  ~/.gitignore
+|4,39,23,0,1761663561,"~/.gitignore"
 -'  15  0  ~/.gitignore
 |4,39,15,0,1761663561,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1761663528,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1761663528,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1761663528,"~/.gitignore"
 -'  96  3  ~/aws_resource_list.sh
@@ -56,6 +68,30 @@
 -'  96  3  ~/aws_resource_list.sh
 |4,39,96,3,1761662284,"~/aws_resource_list.sh"
 -'  96  3  ~/aws_resource_list.sh
+|4,39,96,3,1761662284,"~/aws_resource_list.sh"
+-'  96  3  ~/aws_resource_list.sh
+|4,39,96,3,1761662284,"~/aws_resource_list.sh"
+-'  96  3  ~/aws_resource_list.sh
+|4,39,96,3,1761662284,"~/aws_resource_list.sh"
+-'  96  3  ~/aws_resource_list.sh
+|4,39,96,3,1761662284,"~/aws_resource_list.sh"
+-'  96  3  ~/aws_resource_list.sh
+|4,39,96,3,1761662284,"~/aws_resource_list.sh"
+-'  96  3  ~/aws_resource_list.sh
+|4,39,96,3,1761662284,"~/aws_resource_list.sh"
+-'  96  3  ~/aws_resource_list.sh
+|4,39,96,3,1761662246,"~/aws_resource_list.sh"
+-'  96  3  ~/aws_resource_list.sh
+|4,39,96,3,1761662246,"~/aws_resource_list.sh"
+-'  96  3  ~/aws_resource_list.sh
+|4,39,96,3,1761662246,"~/aws_resource_list.sh"
+-'  96  3  ~/aws_resource_list.sh
+|4,39,96,3,1761662246,"~/aws_resource_list.sh"
+-'  96  3  ~/aws_resource_list.sh
+|4,39,96,3,1761662246,"~/aws_resource_list.sh"
+-'  96  3  ~/aws_resource_list.sh
+|4,39,96,3,1761662246,"~/aws_resource_list.sh"
+-'  96  3  ~/aws_resource_list.sh
 |4,39,96,3,1761662246,"~/aws_resource_list.sh"
 -'  96  3  ~/aws_resource_list.sh
 |4,39,96,3,1761662246,"~/aws_resource_list.sh"
@@ -67,6 +103,30 @@
 |4,39,33,2730,1761662082,"~/aws_resource_list.sh"
 -'  33  2730  ~/aws_resource_list.sh
 |4,39,33,2730,1761662082,"~/aws_resource_list.sh"
+-'  33  2730  ~/aws_resource_list.sh
+|4,39,33,2730,1761662082,"~/aws_resource_list.sh"
+-'  33  2730  ~/aws_resource_list.sh
+|4,39,33,2730,1761662082,"~/aws_resource_list.sh"
+-'  33  2730  ~/aws_resource_list.sh
+|4,39,33,2730,1761662082,"~/aws_resource_list.sh"
+-'  33  2730  ~/aws_resource_list.sh
+|4,39,33,2730,1761662082,"~/aws_resource_list.sh"
+-'  33  2730  ~/aws_resource_list.sh
+|4,39,33,2730,1761662082,"~/aws_resource_list.sh"
+-'  33  2730  ~/aws_resource_list.sh
+|4,39,33,2730,1761662082,"~/aws_resource_list.sh"
+-'  33  2730  ~/aws_resource_list.sh
+|4,39,33,2730,1761662082,"~/aws_resource_list.sh"
+-'  33  2730  ~/aws_resource_list.sh
+|4,39,33,2730,1761662082,"~/aws_resource_list.sh"
+-'  33  2730  ~/aws_resource_list.sh
+|4,39,33,2730,1761662082,"~/aws_resource_list.sh"
+-'  33  2730  ~/aws_resource_list.sh
+|4,39,33,2730,1761662082,"~/aws_resource_list.sh"
+-'  33  2730  ~/aws_resource_list.sh
+|4,39,33,2730,1761662082,"~/aws_resource_list.sh"
+-'  33  2730  ~/aws_resource_list.sh
+|4,39,33,2730,1761662082,"~/aws_resource_list.sh"
 -'  121  0  ~/aws_resource_list.sh
 |4,39,121,0,1761662078,"~/aws_resource_list.sh"
 -'  121  0  ~/aws_resource_list.sh
@@ -75,6 +135,42 @@
 |4,39,121,0,1761662078,"~/aws_resource_list.sh"
 -'  121  0  ~/aws_resource_list.sh
 |4,39,121,0,1761662078,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761662078,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761662078,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761662078,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761662078,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761662078,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761662078,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761662078,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761662078,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761662078,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761662078,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761662078,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761662078,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761661900,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761661900,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761661900,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761661900,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761661900,"~/aws_resource_list.sh"
+-'  121  0  ~/aws_resource_list.sh
+|4,39,121,0,1761661900,"~/aws_resource_list.sh"
 -'  121  0  ~/aws_resource_list.sh
 |4,39,121,0,1761661900,"~/aws_resource_list.sh"
 -'  121  0  ~/aws_resource_list.sh
@@ -91,6 +187,46 @@
 |4,39,119,0,1761659960,"~/aws_resource_list.sh"
 -'  119  0  ~/aws_resource_list.sh
 |4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  119  0  ~/aws_resource_list.sh
+|4,39,119,0,1761659960,"~/aws_resource_list.sh"
+-'  1  0  ~/aws_resource_list.sh
+|4,39,1,0,1761659914,"~/aws_resource_list.sh"
+-'  1  0  ~/aws_resource_list.sh
+|4,39,1,0,1761659914,"~/aws_resource_list.sh"
 -'  1  0  ~/aws_resource_list.sh
 |4,39,1,0,1761659914,"~/aws_resource_list.sh"
 -'  1  0  ~/aws_resource_list.sh
@@ -115,11 +251,14 @@
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1761663556	0
-	"	15	0
-	^	15	0
-	.	14	8
-	+	14	8
+	*	1761672968	0
+	"	10	7
+	^	10	8
+	.	10	7
+	+	2	106
+	+	2	5
+	+	6	6
+	+	10	7
 
 > ~/aws_resource_list.sh
 	*	1761662274	0
