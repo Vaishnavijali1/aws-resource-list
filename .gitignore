@@ -1,0 +1,15 @@
+#!/bin/bash
+# logs and keys
+*.log
+*.csv
+*.pem
+*.key
+
+# AWS credentials
+.aws/
+aws_credentials.csv
+
+# OS / editor
+.DS_Store
+.vscode/
+
