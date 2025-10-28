@@ -94,3 +94,6 @@ case $service in
     echo "Invalid service. Supported services are: ec2, s3, rds, lambda, iam"
     ;;
 esac
+
+
+
